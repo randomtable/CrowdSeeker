@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+C:\Users\Administrator\documents\visual studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
